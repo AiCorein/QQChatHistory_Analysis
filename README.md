@@ -10,7 +10,7 @@
 
 已完成开发的子项：
 
-  - 基于所有聊天记录生成词云
+  - [基于所有聊天记录生成词云](https://github.com/AiCorein/QQChatHistory_Analysis/tree/main/wordCloud)
 
 立项开发中：
 
